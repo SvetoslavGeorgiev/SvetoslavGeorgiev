@@ -1,4 +1,4 @@
-### 👋 I'm Svetoslav Georgiev
+### 👋 Hi, I'm Svetoslav Georgiev
 ### 👀 I’m interested in Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
 ### 🌱 I’m currently learning Web Development with C# @SoftUni.bg
 ### 📫 How to reach me:
