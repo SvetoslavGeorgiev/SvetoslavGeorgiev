@@ -1,6 +1,6 @@
 <br /> 👋 Hi, I'm Svetoslav Georgiev
 <br /> 🌱 I’m currently learning Web Development with C# @SoftUni.bg
-<br /> 👀 I’m interested in Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
+<br /> 👀 I’m interested in Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
 <br /> 📫 How to reach me: 👇🏻
 <br /> email: svetoslavgeorgiev86@gmail.com
 <br /> Linkedin: https://www.linkedin.com/in/svetoslav-georgiev-168932184/
