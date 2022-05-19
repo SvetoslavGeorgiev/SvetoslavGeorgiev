@@ -3,7 +3,7 @@
 <br /> 👀 I’m interested in Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
 <br /> 📫 How to reach me: Email: svetoslavgeorgiev86@gmail.com [Linkedin](https://www.linkedin.com/in/svetoslav-georgiev-168932184/)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvetoslavGeorgiev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetoslavGeorgiev&layout=compact&theme=tokyonight&hide_border=true&card_width=462)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvetoslavGeorgiev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetoslavGeorgiev&layout=compact&theme=tokyonight&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
