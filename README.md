@@ -18,11 +18,11 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SvetoslavGeorgiev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SvetoslavGeorgiev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=420" align = "center"/>
 </p>
- 
+<!--
 <p align="center">
 <img src= "https://github-profile-trophy.vercel.app/?username=SvetoslavGeorgiev&theme=radical" />
 </p>
-
+-->
 <p align="center">
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=SvetoslavGeorgiev&theme=tokyonight&hide_border=true" />
 </p>
