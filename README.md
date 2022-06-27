@@ -44,9 +44,7 @@
 <a href="https://www.instagram.com/svetoslav535/">
 <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" />
 </a>
-<!--
 <img src= "https://komarev.com/ghpvc/?username=SvetoslavGeorgiev&style=plastic&color=brightgreen" align = "center" />
--->
 </p>
 
 <!--
