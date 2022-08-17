@@ -1,4 +1,4 @@
-<br />👋 Hi, I'm Svetoslav Georgiev
+<br />👋 Hi, My name is Svetoslav Georgiev
 <br /> 👀 I’m interested in Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
 
 <p align="center">
