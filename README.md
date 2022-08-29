@@ -1,5 +1,5 @@
 <br />👋 Hi, My name is Svetoslav Georgiev
-<br /> 👀 I’m interested in Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
+<br /> 👀 I’m passionate about Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
 
 <p align="center">
 🌱 I’m currently learning Web Development with C# <a href="https://softuni.bg">@SoftUni.bg</a>
