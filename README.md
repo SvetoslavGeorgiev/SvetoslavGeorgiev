@@ -13,12 +13,12 @@
 <img src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=plastic" />
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
 </p>
-
+<!--
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SvetoslavGeorgiev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SvetoslavGeorgiev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=420" align = "center"/>
 </p>
-<!--
+
 <p align="center">
 <img src= "https://github-profile-trophy.vercel.app/?username=SvetoslavGeorgiev&theme=radical" />
 </p>
