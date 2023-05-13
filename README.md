@@ -10,6 +10,9 @@
 <p align="left">
 <br /> 👀 I’m passionate about Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
 <br />🌱 I’m currently learning JavaScript <a href="https://softuni.bg">@SoftUni.bg</a>
+<br />:technologist: My project is available at <a href="https://github.com/SvetoslavGeorgiev/SoftUni/tree/master/C%23_Web/ASP.NET_Advanced_October_2022/SchoolMealsOrderingSystem">My project</a>
+<br /> :thinking: I’m currently open for a new <strong><em>job opportunity</em></strong>. My resume: <a href="https://drive.google.com/file/d/1zK2ltKwx-XdlHSxO48qR8kX4GCRmGT2f/view?usp=share_link">📰<strong>Resume</strong></a>
+<br />⚡ Fun fact: No background knowledge or experience with programming before SoftUni :grinning:
 </p>
 <hr>
 </hr>
@@ -24,6 +27,8 @@
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" />
 <img src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=plastic" />
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
+<img src= "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=plastic" />
+<img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&style=plastic" />
 </p>
 <hr>
 </hr>
