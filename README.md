@@ -2,7 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=497&color=29F754&center=true&width=600&lines=Hi+there%2C+my+name+is+Svetoslav+Georgiev;Junior+.Net+Developer" alt="Typing SVG" /></a>
 </p>
 <hr>
-##<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</hr>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="left">
@@ -10,6 +12,9 @@
 <br />🌱 I’m currently learning JavaScript <a href="https://softuni.bg">@SoftUni.bg</a>
 </p>
 <hr>
+</hr>
+
+## 🛠️	Programming Languages, Technologies and Tools
 <p align="center">
 <br><img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic"  />
 <img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" />
@@ -21,11 +26,13 @@
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
 </p>
 <hr>
+</hr>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SvetoslavGeorgiev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SvetoslavGeorgiev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=420" align = "center"/>
 </p>
-<hr>
 <!--
 <p align="center">
 <img src= "https://github-profile-trophy.vercel.app/?username=SvetoslavGeorgiev&theme=radical" />
@@ -34,9 +41,10 @@
 <p align="center">
 <img src= "https://github-readme-streak-stats.herokuapp.com/?user=SvetoslavGeorgiev&theme=tokyonight&hide_border=true" />
 </p>
+<hr>
 
+## 📫 How to reach me
 <p align = "center">
-📫 How to reach me: 
 <a href="svetoslavgeorgiev86@gmail.com">
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" />
 <a/>
