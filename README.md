@@ -1,9 +1,16 @@
-<br />👋 Hi, I'm Svetoslav Georgiev
-<br /> 👀 I’m passionate about Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
-
 <p align="center">
-🌱 I’m currently learning Web Development with C# <a href="https://softuni.bg">@SoftUni.bg</a>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=497&color=29F754&center=true&width=600&lines=Hi+there%2C+my+name+is+Svetoslav+Georgiev;Junior+.Net+Developer" alt="Typing SVG" /></a>
+</p>
+<hr>
+##<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="left">
+<br /> 👀 I’m passionate about Game Development, Web Development, C# Development, ASP.NET Core MVC, AI, Machine Leаrning
+<br />🌱 I’m currently learning JavaScript <a href="https://softuni.bg">@SoftUni.bg</a>
+</p>
+<hr>
+<p align="center">
 <br><img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic"  />
 <img src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&style=plastic" />
 <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic"  />
@@ -13,11 +20,12 @@
 <img src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=plastic" />
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
 </p>
-
+<hr>
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SvetoslavGeorgiev&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" align = "center"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SvetoslavGeorgiev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&card_width=420" align = "center"/>
 </p>
+<hr>
 <!--
 <p align="center">
 <img src= "https://github-profile-trophy.vercel.app/?username=SvetoslavGeorgiev&theme=radical" />
